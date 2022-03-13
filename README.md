@@ -2,7 +2,7 @@
 - 👀 I’m interested in // Front end development
 - 🌱 I’m currently learning // HTML, CSS and JS!
 - 💞️ I’m looking to collaborate on // Projects that help me to develop my skills and learn more
-- 📫 How to reach me // You can send a mail to jonathanu27ag@gmail.com
+- 📫 How to reach me // You can send an email to jonathanu27ag@gmail.com
 
 <!---
 JonathanAG0/JonathanAG0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
