@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonathanAG0
 - 👀 I’m interested in // Front end development
 - 🌱 I’m currently learning // HTML, CSS and JS!
-- 💞️ I’m looking to collaborate on // Projects that help me to develop my skills and learn more
+- 💞️ I’m looking to collaborate on // Projects that help me to develop my skills furthermore
 - 📫 How to reach me // You can send an email to jonathanu27ag@gmail.com
 
 <!---
